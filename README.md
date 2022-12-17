@@ -8,6 +8,7 @@ _The comments in the python file will be in Finnish!_
 This is a simple version of the game blackjack. You can only either "Stand" to reveal the dealers cards or "Hit" to give you one more card. The goal is to get as close as possible to card sum value 21.
 
 The cards have values of (A=1 tai A=11)* 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 J=10 Q=10 K=10
+
 *A value is 11 if the upcoming sum will be 21 or less, 1 otherwise.
 
 Cases:
